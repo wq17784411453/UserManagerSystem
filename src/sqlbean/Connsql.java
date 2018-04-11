@@ -5,7 +5,7 @@ import java.sql.*;
 
 public class Connsql {
     public Connsql(){}
-    //¿¿¿¿¿
+    //é“¾æ¥æ•°æ®åº“
     String driver="org.gjt.mm.mysql.Driver";
     String uesr="root";
     String userPassword="wq123456789";
