@@ -13,4 +13,4 @@
   
   <h2>本周的工作在另一个项目javaweb-mvc中，主要是看了mvc视频后的一些运用</h2>
   
-  - [javaweb-mvc](https://github.com/wq17784411453/javaweb-mvc/blob/master/README.md)
+  - [javaweb-mvc](https://github.com/wq17784411453/javaweb-mvc)
