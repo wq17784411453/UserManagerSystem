@@ -1,6 +1,8 @@
 # UserManagerSystem
 <h2>系统简介</h2><br>  本管理系统针对于本校的羽毛球协会。用户有两种身份：一种是管理员，即相当于协会的会长和部长；另一种是普通用户，即协会干事。普通用户 具有按学号学好查询会员（即学生）资料功能，普通用户必须先注册，然后登陆、查询。管理员 可以对会员（也是学生）进行添加学生资料、删除学生资料、修改学生资料、查询学生资料等操作。<br><br>
+
 [演示链接](http://www.xidabadminton.top:8080/UserManagerSystem/index.jsp)
+
 测试账号：管理员用户名和密码admin
 <br>
 <h2>当前进度</h2><br>
@@ -9,6 +11,6 @@
  <h2>下一步工作</h2><br>
   实现管理员的对会员（即学生）的增删改查，对普通用户的删除，以及对管理员自己的注销操作。
   
-  <h1>本周的工作在另一个项目javaweb-mvc中，主要是看了mvc视频后的一些运用</h1>
+  <h2>本周的工作在另一个项目javaweb-mvc中，主要是看了mvc视频后的一些运用</h2>
   
   - [javaweb-mvc](https://github.com/wq17784411453/javaweb-mvc/blob/master/README.md)
